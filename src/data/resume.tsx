@@ -8,9 +8,9 @@ export const DATA = {
   location: "Pakistan islamabd",
   locationLink: "https://www.google.com/maps/place/islamabad",
   description:
-    "Software Engineer. I love building things and helping people. Very active on Twitter.",
+    "Software Engineer #1+ Year of Experience | Active Open Source Contributor",
   summary:
-    "Building and scaling my skills in Development. In the past, [I pursued a degree in Software Engineering](/#education), interned at tech companies in Islamabad, and [competed in different hackathons for fun](/#hackathons).",
+    "Building and scaling my skills in web Development. In the past, [I pursued a degree in Software Engineering](/#education), interned at tech companies in Islamabad, and [competed in different hackathons for fun](/#hackathons).",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
